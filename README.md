@@ -42,6 +42,14 @@ if __name__ == '__main__':
 
 Here functions hello0(), hello1(), hello2() are handling different urls specified in the urls.txt file earlier.
 
+To run the generated webapp:
+
+```
+cd ./webapp
+pip install -r requirements.txt
+python app.py
+```
+
 The generated webapp is dockerized, so inorder to build an image and the container from the image use the below commands.
 
 
