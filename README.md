@@ -1,4 +1,4 @@
-# Generate Simple flask webserver with custom Endpoints
+# Generate Simple http webserver with custom Endpoints
 This is a simple python script that can generate a small flask application with the urls specified in the urls.txt file.
 For example:
 if the urls.txt file has this content.
