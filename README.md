@@ -58,3 +58,5 @@ cd ./webapp
 sudo docker build -t my_image .
 sudo docker run -d -p 80:80 my_image
 ```
+
+To deploy this webapp to GKE, follow this doc: https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
